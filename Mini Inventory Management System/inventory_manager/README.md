@@ -1,6 +1,5 @@
 # Mini Inventory Management System
-**Project 6 — Final Project**  
-Python | tkinter | JSON | pandas (optional)
+
 
 ---
 
